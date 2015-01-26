@@ -1,0 +1,319 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+!_TAG_PROGRAM_VERSION	5.9~svn20110310	//
+ADC_USE_MUTUAL_EXCLUSION	/home/volodymyr/work_STM/ChibiOS_2.6.6/demos/ARMCM4-STM32F407-DISCOVERY-MEMS/./halconf.h	176;"	d
+ADC_USE_WAIT	/home/volodymyr/work_STM/ChibiOS_2.6.6/demos/ARMCM4-STM32F407-DISCOVERY-MEMS/./halconf.h	168;"	d
+CAN_USE_SLEEP_MODE	/home/volodymyr/work_STM/ChibiOS_2.6.6/demos/ARMCM4-STM32F407-DISCOVERY-MEMS/./halconf.h	187;"	d
+CH_DBG_ENABLE_ASSERTS	/home/volodymyr/work_STM/ChibiOS_2.6.6/demos/ARMCM4-STM32F407-DISCOVERY-MEMS/./chconf.h	383;"	d
+CH_DBG_ENABLE_CHECKS	/home/volodymyr/work_STM/ChibiOS_2.6.6/demos/ARMCM4-STM32F407-DISCOVERY-MEMS/./chconf.h	371;"	d
+CH_DBG_ENABLE_STACK_CHECK	/home/volodymyr/work_STM/ChibiOS_2.6.6/demos/ARMCM4-STM32F407-DISCOVERY-MEMS/./chconf.h	408;"	d
+CH_DBG_ENABLE_TRACE	/home/volodymyr/work_STM/ChibiOS_2.6.6/demos/ARMCM4-STM32F407-DISCOVERY-MEMS/./chconf.h	394;"	d
+CH_DBG_FILL_THREADS	/home/volodymyr/work_STM/ChibiOS_2.6.6/demos/ARMCM4-STM32F407-DISCOVERY-MEMS/./chconf.h	420;"	d
+CH_DBG_SYSTEM_STATE_CHECK	/home/volodymyr/work_STM/ChibiOS_2.6.6/demos/ARMCM4-STM32F407-DISCOVERY-MEMS/./chconf.h	360;"	d
+CH_DBG_THREADS_PROFILING	/home/volodymyr/work_STM/ChibiOS_2.6.6/demos/ARMCM4-STM32F407-DISCOVERY-MEMS/./chconf.h	433;"	d
+CH_FREQUENCY	/home/volodymyr/work_STM/ChibiOS_2.6.6/demos/ARMCM4-STM32F407-DISCOVERY-MEMS/./chconf.h	44;"	d
+CH_MEMCORE_SIZE	/home/volodymyr/work_STM/ChibiOS_2.6.6/demos/ARMCM4-STM32F407-DISCOVERY-MEMS/./chconf.h	74;"	d
+CH_NO_IDLE_THREAD	/home/volodymyr/work_STM/ChibiOS_2.6.6/demos/ARMCM4-STM32F407-DISCOVERY-MEMS/./chconf.h	91;"	d
+CH_OPTIMIZE_SPEED	/home/volodymyr/work_STM/ChibiOS_2.6.6/demos/ARMCM4-STM32F407-DISCOVERY-MEMS/./chconf.h	112;"	d
+CH_TIME_QUANTUM	/home/volodymyr/work_STM/ChibiOS_2.6.6/demos/ARMCM4-STM32F407-DISCOVERY-MEMS/./chconf.h	59;"	d
+CH_USE_CONDVARS	/home/volodymyr/work_STM/ChibiOS_2.6.6/demos/ARMCM4-STM32F407-DISCOVERY-MEMS/./chconf.h	198;"	d
+CH_USE_CONDVARS_TIMEOUT	/home/volodymyr/work_STM/ChibiOS_2.6.6/demos/ARMCM4-STM32F407-DISCOVERY-MEMS/./chconf.h	210;"	d
+CH_USE_DYNAMIC	/home/volodymyr/work_STM/ChibiOS_2.6.6/demos/ARMCM4-STM32F407-DISCOVERY-MEMS/./chconf.h	340;"	d
+CH_USE_EVENTS	/home/volodymyr/work_STM/ChibiOS_2.6.6/demos/ARMCM4-STM32F407-DISCOVERY-MEMS/./chconf.h	220;"	d
+CH_USE_EVENTS_TIMEOUT	/home/volodymyr/work_STM/ChibiOS_2.6.6/demos/ARMCM4-STM32F407-DISCOVERY-MEMS/./chconf.h	232;"	d
+CH_USE_HEAP	/home/volodymyr/work_STM/ChibiOS_2.6.6/demos/ARMCM4-STM32F407-DISCOVERY-MEMS/./chconf.h	302;"	d
+CH_USE_MAILBOXES	/home/volodymyr/work_STM/ChibiOS_2.6.6/demos/ARMCM4-STM32F407-DISCOVERY-MEMS/./chconf.h	267;"	d
+CH_USE_MALLOC_HEAP	/home/volodymyr/work_STM/ChibiOS_2.6.6/demos/ARMCM4-STM32F407-DISCOVERY-MEMS/./chconf.h	316;"	d
+CH_USE_MEMCORE	/home/volodymyr/work_STM/ChibiOS_2.6.6/demos/ARMCM4-STM32F407-DISCOVERY-MEMS/./chconf.h	288;"	d
+CH_USE_MEMPOOLS	/home/volodymyr/work_STM/ChibiOS_2.6.6/demos/ARMCM4-STM32F407-DISCOVERY-MEMS/./chconf.h	327;"	d
+CH_USE_MESSAGES	/home/volodymyr/work_STM/ChibiOS_2.6.6/demos/ARMCM4-STM32F407-DISCOVERY-MEMS/./chconf.h	243;"	d
+CH_USE_MESSAGES_PRIORITY	/home/volodymyr/work_STM/ChibiOS_2.6.6/demos/ARMCM4-STM32F407-DISCOVERY-MEMS/./chconf.h	255;"	d
+CH_USE_MUTEXES	/home/volodymyr/work_STM/ChibiOS_2.6.6/demos/ARMCM4-STM32F407-DISCOVERY-MEMS/./chconf.h	186;"	d
+CH_USE_QUEUES	/home/volodymyr/work_STM/ChibiOS_2.6.6/demos/ARMCM4-STM32F407-DISCOVERY-MEMS/./chconf.h	277;"	d
+CH_USE_REGISTRY	/home/volodymyr/work_STM/ChibiOS_2.6.6/demos/ARMCM4-STM32F407-DISCOVERY-MEMS/./chconf.h	131;"	d
+CH_USE_SEMAPHORES	/home/volodymyr/work_STM/ChibiOS_2.6.6/demos/ARMCM4-STM32F407-DISCOVERY-MEMS/./chconf.h	152;"	d
+CH_USE_SEMAPHORES_PRIORITY	/home/volodymyr/work_STM/ChibiOS_2.6.6/demos/ARMCM4-STM32F407-DISCOVERY-MEMS/./chconf.h	164;"	d
+CH_USE_SEMSW	/home/volodymyr/work_STM/ChibiOS_2.6.6/demos/ARMCM4-STM32F407-DISCOVERY-MEMS/./chconf.h	176;"	d
+CH_USE_WAITEXIT	/home/volodymyr/work_STM/ChibiOS_2.6.6/demos/ARMCM4-STM32F407-DISCOVERY-MEMS/./chconf.h	142;"	d
+HAL_USE_ADC	/home/volodymyr/work_STM/ChibiOS_2.6.6/demos/ARMCM4-STM32F407-DISCOVERY-MEMS/./halconf.h	51;"	d
+HAL_USE_CAN	/home/volodymyr/work_STM/ChibiOS_2.6.6/demos/ARMCM4-STM32F407-DISCOVERY-MEMS/./halconf.h	58;"	d
+HAL_USE_EXT	/home/volodymyr/work_STM/ChibiOS_2.6.6/demos/ARMCM4-STM32F407-DISCOVERY-MEMS/./halconf.h	65;"	d
+HAL_USE_GPT	/home/volodymyr/work_STM/ChibiOS_2.6.6/demos/ARMCM4-STM32F407-DISCOVERY-MEMS/./halconf.h	72;"	d
+HAL_USE_I2C	/home/volodymyr/work_STM/ChibiOS_2.6.6/demos/ARMCM4-STM32F407-DISCOVERY-MEMS/./halconf.h	79;"	d
+HAL_USE_ICU	/home/volodymyr/work_STM/ChibiOS_2.6.6/demos/ARMCM4-STM32F407-DISCOVERY-MEMS/./halconf.h	86;"	d
+HAL_USE_MAC	/home/volodymyr/work_STM/ChibiOS_2.6.6/demos/ARMCM4-STM32F407-DISCOVERY-MEMS/./halconf.h	93;"	d
+HAL_USE_MMC_SPI	/home/volodymyr/work_STM/ChibiOS_2.6.6/demos/ARMCM4-STM32F407-DISCOVERY-MEMS/./halconf.h	100;"	d
+HAL_USE_PAL	/home/volodymyr/work_STM/ChibiOS_2.6.6/demos/ARMCM4-STM32F407-DISCOVERY-MEMS/./halconf.h	44;"	d
+HAL_USE_PWM	/home/volodymyr/work_STM/ChibiOS_2.6.6/demos/ARMCM4-STM32F407-DISCOVERY-MEMS/./halconf.h	107;"	d
+HAL_USE_RTC	/home/volodymyr/work_STM/ChibiOS_2.6.6/demos/ARMCM4-STM32F407-DISCOVERY-MEMS/./halconf.h	114;"	d
+HAL_USE_SDC	/home/volodymyr/work_STM/ChibiOS_2.6.6/demos/ARMCM4-STM32F407-DISCOVERY-MEMS/./halconf.h	121;"	d
+HAL_USE_SERIAL	/home/volodymyr/work_STM/ChibiOS_2.6.6/demos/ARMCM4-STM32F407-DISCOVERY-MEMS/./halconf.h	128;"	d
+HAL_USE_SERIAL_USB	/home/volodymyr/work_STM/ChibiOS_2.6.6/demos/ARMCM4-STM32F407-DISCOVERY-MEMS/./halconf.h	135;"	d
+HAL_USE_SPI	/home/volodymyr/work_STM/ChibiOS_2.6.6/demos/ARMCM4-STM32F407-DISCOVERY-MEMS/./halconf.h	142;"	d
+HAL_USE_TM	/home/volodymyr/work_STM/ChibiOS_2.6.6/demos/ARMCM4-STM32F407-DISCOVERY-MEMS/./halconf.h	37;"	d
+HAL_USE_UART	/home/volodymyr/work_STM/ChibiOS_2.6.6/demos/ARMCM4-STM32F407-DISCOVERY-MEMS/./halconf.h	149;"	d
+HAL_USE_USB	/home/volodymyr/work_STM/ChibiOS_2.6.6/demos/ARMCM4-STM32F407-DISCOVERY-MEMS/./halconf.h	156;"	d
+I2C_USE_MUTUAL_EXCLUSION	/home/volodymyr/work_STM/ChibiOS_2.6.6/demos/ARMCM4-STM32F407-DISCOVERY-MEMS/./halconf.h	198;"	d
+IDLE_LOOP_HOOK	/home/volodymyr/work_STM/ChibiOS_2.6.6/demos/ARMCM4-STM32F407-DISCOVERY-MEMS/./chconf.h	496;"	d
+MAC_USE_EVENTS	/home/volodymyr/work_STM/ChibiOS_2.6.6/demos/ARMCM4-STM32F407-DISCOVERY-MEMS/./halconf.h	216;"	d
+MAC_USE_ZERO_COPY	/home/volodymyr/work_STM/ChibiOS_2.6.6/demos/ARMCM4-STM32F407-DISCOVERY-MEMS/./halconf.h	209;"	d
+MMC_NICE_WAITING	/home/volodymyr/work_STM/ChibiOS_2.6.6/demos/ARMCM4-STM32F407-DISCOVERY-MEMS/./halconf.h	232;"	d
+SDC_INIT_RETRY	/home/volodymyr/work_STM/ChibiOS_2.6.6/demos/ARMCM4-STM32F407-DISCOVERY-MEMS/./halconf.h	244;"	d
+SDC_MMC_SUPPORT	/home/volodymyr/work_STM/ChibiOS_2.6.6/demos/ARMCM4-STM32F407-DISCOVERY-MEMS/./halconf.h	253;"	d
+SDC_NICE_WAITING	/home/volodymyr/work_STM/ChibiOS_2.6.6/demos/ARMCM4-STM32F407-DISCOVERY-MEMS/./halconf.h	263;"	d
+SDU1	/home/volodymyr/work_STM/ChibiOS_2.6.6/demos/ARMCM4-STM32F407-DISCOVERY-MEMS/./main.c	/^SerialUSBDriver SDU1;$/;"	v
+SERIAL_BUFFERS_SIZE	/home/volodymyr/work_STM/ChibiOS_2.6.6/demos/ARMCM4-STM32F407-DISCOVERY-MEMS/./halconf.h	287;"	d
+SERIAL_DEFAULT_BITRATE	/home/volodymyr/work_STM/ChibiOS_2.6.6/demos/ARMCM4-STM32F407-DISCOVERY-MEMS/./halconf.h	276;"	d
+SHELL_WA_SIZE	/home/volodymyr/work_STM/ChibiOS_2.6.6/demos/ARMCM4-STM32F407-DISCOVERY-MEMS/./main.c	34;"	d	file:
+SPI_USE_MUTUAL_EXCLUSION	/home/volodymyr/work_STM/ChibiOS_2.6.6/demos/ARMCM4-STM32F407-DISCOVERY-MEMS/./halconf.h	307;"	d
+SPI_USE_WAIT	/home/volodymyr/work_STM/ChibiOS_2.6.6/demos/ARMCM4-STM32F407-DISCOVERY-MEMS/./halconf.h	299;"	d
+STM32F4xx_MCUCONF	/home/volodymyr/work_STM/ChibiOS_2.6.6/demos/ARMCM4-STM32F407-DISCOVERY-MEMS/./mcuconf.h	31;"	d
+STM32_ADC_ADC1_DMA_IRQ_PRIORITY	/home/volodymyr/work_STM/ChibiOS_2.6.6/demos/ARMCM4-STM32F407-DISCOVERY-MEMS/./mcuconf.h	78;"	d
+STM32_ADC_ADC1_DMA_PRIORITY	/home/volodymyr/work_STM/ChibiOS_2.6.6/demos/ARMCM4-STM32F407-DISCOVERY-MEMS/./mcuconf.h	74;"	d
+STM32_ADC_ADC1_DMA_STREAM	/home/volodymyr/work_STM/ChibiOS_2.6.6/demos/ARMCM4-STM32F407-DISCOVERY-MEMS/./mcuconf.h	71;"	d
+STM32_ADC_ADC2_DMA_IRQ_PRIORITY	/home/volodymyr/work_STM/ChibiOS_2.6.6/demos/ARMCM4-STM32F407-DISCOVERY-MEMS/./mcuconf.h	79;"	d
+STM32_ADC_ADC2_DMA_PRIORITY	/home/volodymyr/work_STM/ChibiOS_2.6.6/demos/ARMCM4-STM32F407-DISCOVERY-MEMS/./mcuconf.h	75;"	d
+STM32_ADC_ADC2_DMA_STREAM	/home/volodymyr/work_STM/ChibiOS_2.6.6/demos/ARMCM4-STM32F407-DISCOVERY-MEMS/./mcuconf.h	72;"	d
+STM32_ADC_ADC3_DMA_IRQ_PRIORITY	/home/volodymyr/work_STM/ChibiOS_2.6.6/demos/ARMCM4-STM32F407-DISCOVERY-MEMS/./mcuconf.h	80;"	d
+STM32_ADC_ADC3_DMA_PRIORITY	/home/volodymyr/work_STM/ChibiOS_2.6.6/demos/ARMCM4-STM32F407-DISCOVERY-MEMS/./mcuconf.h	76;"	d
+STM32_ADC_ADC3_DMA_STREAM	/home/volodymyr/work_STM/ChibiOS_2.6.6/demos/ARMCM4-STM32F407-DISCOVERY-MEMS/./mcuconf.h	73;"	d
+STM32_ADC_ADCPRE	/home/volodymyr/work_STM/ChibiOS_2.6.6/demos/ARMCM4-STM32F407-DISCOVERY-MEMS/./mcuconf.h	67;"	d
+STM32_ADC_IRQ_PRIORITY	/home/volodymyr/work_STM/ChibiOS_2.6.6/demos/ARMCM4-STM32F407-DISCOVERY-MEMS/./mcuconf.h	77;"	d
+STM32_ADC_USE_ADC1	/home/volodymyr/work_STM/ChibiOS_2.6.6/demos/ARMCM4-STM32F407-DISCOVERY-MEMS/./mcuconf.h	68;"	d
+STM32_ADC_USE_ADC2	/home/volodymyr/work_STM/ChibiOS_2.6.6/demos/ARMCM4-STM32F407-DISCOVERY-MEMS/./mcuconf.h	69;"	d
+STM32_ADC_USE_ADC3	/home/volodymyr/work_STM/ChibiOS_2.6.6/demos/ARMCM4-STM32F407-DISCOVERY-MEMS/./mcuconf.h	70;"	d
+STM32_BKPRAM_ENABLE	/home/volodymyr/work_STM/ChibiOS_2.6.6/demos/ARMCM4-STM32F407-DISCOVERY-MEMS/./mcuconf.h	62;"	d
+STM32_CAN_CAN1_IRQ_PRIORITY	/home/volodymyr/work_STM/ChibiOS_2.6.6/demos/ARMCM4-STM32F407-DISCOVERY-MEMS/./mcuconf.h	87;"	d
+STM32_CAN_CAN2_IRQ_PRIORITY	/home/volodymyr/work_STM/ChibiOS_2.6.6/demos/ARMCM4-STM32F407-DISCOVERY-MEMS/./mcuconf.h	88;"	d
+STM32_CAN_USE_CAN1	/home/volodymyr/work_STM/ChibiOS_2.6.6/demos/ARMCM4-STM32F407-DISCOVERY-MEMS/./mcuconf.h	85;"	d
+STM32_CAN_USE_CAN2	/home/volodymyr/work_STM/ChibiOS_2.6.6/demos/ARMCM4-STM32F407-DISCOVERY-MEMS/./mcuconf.h	86;"	d
+STM32_CLOCK48_REQUIRED	/home/volodymyr/work_STM/ChibiOS_2.6.6/demos/ARMCM4-STM32F407-DISCOVERY-MEMS/./mcuconf.h	41;"	d
+STM32_EXT_EXTI0_IRQ_PRIORITY	/home/volodymyr/work_STM/ChibiOS_2.6.6/demos/ARMCM4-STM32F407-DISCOVERY-MEMS/./mcuconf.h	93;"	d
+STM32_EXT_EXTI10_15_IRQ_PRIORITY	/home/volodymyr/work_STM/ChibiOS_2.6.6/demos/ARMCM4-STM32F407-DISCOVERY-MEMS/./mcuconf.h	99;"	d
+STM32_EXT_EXTI16_IRQ_PRIORITY	/home/volodymyr/work_STM/ChibiOS_2.6.6/demos/ARMCM4-STM32F407-DISCOVERY-MEMS/./mcuconf.h	100;"	d
+STM32_EXT_EXTI17_IRQ_PRIORITY	/home/volodymyr/work_STM/ChibiOS_2.6.6/demos/ARMCM4-STM32F407-DISCOVERY-MEMS/./mcuconf.h	101;"	d
+STM32_EXT_EXTI18_IRQ_PRIORITY	/home/volodymyr/work_STM/ChibiOS_2.6.6/demos/ARMCM4-STM32F407-DISCOVERY-MEMS/./mcuconf.h	102;"	d
+STM32_EXT_EXTI19_IRQ_PRIORITY	/home/volodymyr/work_STM/ChibiOS_2.6.6/demos/ARMCM4-STM32F407-DISCOVERY-MEMS/./mcuconf.h	103;"	d
+STM32_EXT_EXTI1_IRQ_PRIORITY	/home/volodymyr/work_STM/ChibiOS_2.6.6/demos/ARMCM4-STM32F407-DISCOVERY-MEMS/./mcuconf.h	94;"	d
+STM32_EXT_EXTI20_IRQ_PRIORITY	/home/volodymyr/work_STM/ChibiOS_2.6.6/demos/ARMCM4-STM32F407-DISCOVERY-MEMS/./mcuconf.h	104;"	d
+STM32_EXT_EXTI21_IRQ_PRIORITY	/home/volodymyr/work_STM/ChibiOS_2.6.6/demos/ARMCM4-STM32F407-DISCOVERY-MEMS/./mcuconf.h	105;"	d
+STM32_EXT_EXTI22_IRQ_PRIORITY	/home/volodymyr/work_STM/ChibiOS_2.6.6/demos/ARMCM4-STM32F407-DISCOVERY-MEMS/./mcuconf.h	106;"	d
+STM32_EXT_EXTI2_IRQ_PRIORITY	/home/volodymyr/work_STM/ChibiOS_2.6.6/demos/ARMCM4-STM32F407-DISCOVERY-MEMS/./mcuconf.h	95;"	d
+STM32_EXT_EXTI3_IRQ_PRIORITY	/home/volodymyr/work_STM/ChibiOS_2.6.6/demos/ARMCM4-STM32F407-DISCOVERY-MEMS/./mcuconf.h	96;"	d
+STM32_EXT_EXTI4_IRQ_PRIORITY	/home/volodymyr/work_STM/ChibiOS_2.6.6/demos/ARMCM4-STM32F407-DISCOVERY-MEMS/./mcuconf.h	97;"	d
+STM32_EXT_EXTI5_9_IRQ_PRIORITY	/home/volodymyr/work_STM/ChibiOS_2.6.6/demos/ARMCM4-STM32F407-DISCOVERY-MEMS/./mcuconf.h	98;"	d
+STM32_GPT_TIM11_IRQ_PRIORITY	/home/volodymyr/work_STM/ChibiOS_2.6.6/demos/ARMCM4-STM32F407-DISCOVERY-MEMS/./mcuconf.h	132;"	d
+STM32_GPT_TIM12_IRQ_PRIORITY	/home/volodymyr/work_STM/ChibiOS_2.6.6/demos/ARMCM4-STM32F407-DISCOVERY-MEMS/./mcuconf.h	133;"	d
+STM32_GPT_TIM14_IRQ_PRIORITY	/home/volodymyr/work_STM/ChibiOS_2.6.6/demos/ARMCM4-STM32F407-DISCOVERY-MEMS/./mcuconf.h	134;"	d
+STM32_GPT_TIM1_IRQ_PRIORITY	/home/volodymyr/work_STM/ChibiOS_2.6.6/demos/ARMCM4-STM32F407-DISCOVERY-MEMS/./mcuconf.h	123;"	d
+STM32_GPT_TIM2_IRQ_PRIORITY	/home/volodymyr/work_STM/ChibiOS_2.6.6/demos/ARMCM4-STM32F407-DISCOVERY-MEMS/./mcuconf.h	124;"	d
+STM32_GPT_TIM3_IRQ_PRIORITY	/home/volodymyr/work_STM/ChibiOS_2.6.6/demos/ARMCM4-STM32F407-DISCOVERY-MEMS/./mcuconf.h	125;"	d
+STM32_GPT_TIM4_IRQ_PRIORITY	/home/volodymyr/work_STM/ChibiOS_2.6.6/demos/ARMCM4-STM32F407-DISCOVERY-MEMS/./mcuconf.h	126;"	d
+STM32_GPT_TIM5_IRQ_PRIORITY	/home/volodymyr/work_STM/ChibiOS_2.6.6/demos/ARMCM4-STM32F407-DISCOVERY-MEMS/./mcuconf.h	127;"	d
+STM32_GPT_TIM6_IRQ_PRIORITY	/home/volodymyr/work_STM/ChibiOS_2.6.6/demos/ARMCM4-STM32F407-DISCOVERY-MEMS/./mcuconf.h	128;"	d
+STM32_GPT_TIM7_IRQ_PRIORITY	/home/volodymyr/work_STM/ChibiOS_2.6.6/demos/ARMCM4-STM32F407-DISCOVERY-MEMS/./mcuconf.h	129;"	d
+STM32_GPT_TIM8_IRQ_PRIORITY	/home/volodymyr/work_STM/ChibiOS_2.6.6/demos/ARMCM4-STM32F407-DISCOVERY-MEMS/./mcuconf.h	130;"	d
+STM32_GPT_TIM9_IRQ_PRIORITY	/home/volodymyr/work_STM/ChibiOS_2.6.6/demos/ARMCM4-STM32F407-DISCOVERY-MEMS/./mcuconf.h	131;"	d
+STM32_GPT_USE_TIM1	/home/volodymyr/work_STM/ChibiOS_2.6.6/demos/ARMCM4-STM32F407-DISCOVERY-MEMS/./mcuconf.h	111;"	d
+STM32_GPT_USE_TIM11	/home/volodymyr/work_STM/ChibiOS_2.6.6/demos/ARMCM4-STM32F407-DISCOVERY-MEMS/./mcuconf.h	120;"	d
+STM32_GPT_USE_TIM12	/home/volodymyr/work_STM/ChibiOS_2.6.6/demos/ARMCM4-STM32F407-DISCOVERY-MEMS/./mcuconf.h	121;"	d
+STM32_GPT_USE_TIM14	/home/volodymyr/work_STM/ChibiOS_2.6.6/demos/ARMCM4-STM32F407-DISCOVERY-MEMS/./mcuconf.h	122;"	d
+STM32_GPT_USE_TIM2	/home/volodymyr/work_STM/ChibiOS_2.6.6/demos/ARMCM4-STM32F407-DISCOVERY-MEMS/./mcuconf.h	112;"	d
+STM32_GPT_USE_TIM3	/home/volodymyr/work_STM/ChibiOS_2.6.6/demos/ARMCM4-STM32F407-DISCOVERY-MEMS/./mcuconf.h	113;"	d
+STM32_GPT_USE_TIM4	/home/volodymyr/work_STM/ChibiOS_2.6.6/demos/ARMCM4-STM32F407-DISCOVERY-MEMS/./mcuconf.h	114;"	d
+STM32_GPT_USE_TIM5	/home/volodymyr/work_STM/ChibiOS_2.6.6/demos/ARMCM4-STM32F407-DISCOVERY-MEMS/./mcuconf.h	115;"	d
+STM32_GPT_USE_TIM6	/home/volodymyr/work_STM/ChibiOS_2.6.6/demos/ARMCM4-STM32F407-DISCOVERY-MEMS/./mcuconf.h	116;"	d
+STM32_GPT_USE_TIM7	/home/volodymyr/work_STM/ChibiOS_2.6.6/demos/ARMCM4-STM32F407-DISCOVERY-MEMS/./mcuconf.h	117;"	d
+STM32_GPT_USE_TIM8	/home/volodymyr/work_STM/ChibiOS_2.6.6/demos/ARMCM4-STM32F407-DISCOVERY-MEMS/./mcuconf.h	118;"	d
+STM32_GPT_USE_TIM9	/home/volodymyr/work_STM/ChibiOS_2.6.6/demos/ARMCM4-STM32F407-DISCOVERY-MEMS/./mcuconf.h	119;"	d
+STM32_HPRE	/home/volodymyr/work_STM/ChibiOS_2.6.6/demos/ARMCM4-STM32F407-DISCOVERY-MEMS/./mcuconf.h	48;"	d
+STM32_HSE_ENABLED	/home/volodymyr/work_STM/ChibiOS_2.6.6/demos/ARMCM4-STM32F407-DISCOVERY-MEMS/./mcuconf.h	39;"	d
+STM32_HSI_ENABLED	/home/volodymyr/work_STM/ChibiOS_2.6.6/demos/ARMCM4-STM32F407-DISCOVERY-MEMS/./mcuconf.h	37;"	d
+STM32_I2C_I2C1_DMA_ERROR_HOOK	/home/volodymyr/work_STM/ChibiOS_2.6.6/demos/ARMCM4-STM32F407-DISCOVERY-MEMS/./mcuconf.h	154;"	d
+STM32_I2C_I2C1_DMA_PRIORITY	/home/volodymyr/work_STM/ChibiOS_2.6.6/demos/ARMCM4-STM32F407-DISCOVERY-MEMS/./mcuconf.h	151;"	d
+STM32_I2C_I2C1_IRQ_PRIORITY	/home/volodymyr/work_STM/ChibiOS_2.6.6/demos/ARMCM4-STM32F407-DISCOVERY-MEMS/./mcuconf.h	148;"	d
+STM32_I2C_I2C1_RX_DMA_STREAM	/home/volodymyr/work_STM/ChibiOS_2.6.6/demos/ARMCM4-STM32F407-DISCOVERY-MEMS/./mcuconf.h	142;"	d
+STM32_I2C_I2C1_TX_DMA_STREAM	/home/volodymyr/work_STM/ChibiOS_2.6.6/demos/ARMCM4-STM32F407-DISCOVERY-MEMS/./mcuconf.h	143;"	d
+STM32_I2C_I2C2_DMA_ERROR_HOOK	/home/volodymyr/work_STM/ChibiOS_2.6.6/demos/ARMCM4-STM32F407-DISCOVERY-MEMS/./mcuconf.h	155;"	d
+STM32_I2C_I2C2_DMA_PRIORITY	/home/volodymyr/work_STM/ChibiOS_2.6.6/demos/ARMCM4-STM32F407-DISCOVERY-MEMS/./mcuconf.h	152;"	d
+STM32_I2C_I2C2_IRQ_PRIORITY	/home/volodymyr/work_STM/ChibiOS_2.6.6/demos/ARMCM4-STM32F407-DISCOVERY-MEMS/./mcuconf.h	149;"	d
+STM32_I2C_I2C2_RX_DMA_STREAM	/home/volodymyr/work_STM/ChibiOS_2.6.6/demos/ARMCM4-STM32F407-DISCOVERY-MEMS/./mcuconf.h	144;"	d
+STM32_I2C_I2C2_TX_DMA_STREAM	/home/volodymyr/work_STM/ChibiOS_2.6.6/demos/ARMCM4-STM32F407-DISCOVERY-MEMS/./mcuconf.h	145;"	d
+STM32_I2C_I2C3_DMA_ERROR_HOOK	/home/volodymyr/work_STM/ChibiOS_2.6.6/demos/ARMCM4-STM32F407-DISCOVERY-MEMS/./mcuconf.h	156;"	d
+STM32_I2C_I2C3_DMA_PRIORITY	/home/volodymyr/work_STM/ChibiOS_2.6.6/demos/ARMCM4-STM32F407-DISCOVERY-MEMS/./mcuconf.h	153;"	d
+STM32_I2C_I2C3_IRQ_PRIORITY	/home/volodymyr/work_STM/ChibiOS_2.6.6/demos/ARMCM4-STM32F407-DISCOVERY-MEMS/./mcuconf.h	150;"	d
+STM32_I2C_I2C3_RX_DMA_STREAM	/home/volodymyr/work_STM/ChibiOS_2.6.6/demos/ARMCM4-STM32F407-DISCOVERY-MEMS/./mcuconf.h	146;"	d
+STM32_I2C_I2C3_TX_DMA_STREAM	/home/volodymyr/work_STM/ChibiOS_2.6.6/demos/ARMCM4-STM32F407-DISCOVERY-MEMS/./mcuconf.h	147;"	d
+STM32_I2C_USE_I2C1	/home/volodymyr/work_STM/ChibiOS_2.6.6/demos/ARMCM4-STM32F407-DISCOVERY-MEMS/./mcuconf.h	139;"	d
+STM32_I2C_USE_I2C2	/home/volodymyr/work_STM/ChibiOS_2.6.6/demos/ARMCM4-STM32F407-DISCOVERY-MEMS/./mcuconf.h	140;"	d
+STM32_I2C_USE_I2C3	/home/volodymyr/work_STM/ChibiOS_2.6.6/demos/ARMCM4-STM32F407-DISCOVERY-MEMS/./mcuconf.h	141;"	d
+STM32_I2SSRC	/home/volodymyr/work_STM/ChibiOS_2.6.6/demos/ARMCM4-STM32F407-DISCOVERY-MEMS/./mcuconf.h	57;"	d
+STM32_ICU_TIM1_IRQ_PRIORITY	/home/volodymyr/work_STM/ChibiOS_2.6.6/demos/ARMCM4-STM32F407-DISCOVERY-MEMS/./mcuconf.h	168;"	d
+STM32_ICU_TIM2_IRQ_PRIORITY	/home/volodymyr/work_STM/ChibiOS_2.6.6/demos/ARMCM4-STM32F407-DISCOVERY-MEMS/./mcuconf.h	169;"	d
+STM32_ICU_TIM3_IRQ_PRIORITY	/home/volodymyr/work_STM/ChibiOS_2.6.6/demos/ARMCM4-STM32F407-DISCOVERY-MEMS/./mcuconf.h	170;"	d
+STM32_ICU_TIM4_IRQ_PRIORITY	/home/volodymyr/work_STM/ChibiOS_2.6.6/demos/ARMCM4-STM32F407-DISCOVERY-MEMS/./mcuconf.h	171;"	d
+STM32_ICU_TIM5_IRQ_PRIORITY	/home/volodymyr/work_STM/ChibiOS_2.6.6/demos/ARMCM4-STM32F407-DISCOVERY-MEMS/./mcuconf.h	172;"	d
+STM32_ICU_TIM8_IRQ_PRIORITY	/home/volodymyr/work_STM/ChibiOS_2.6.6/demos/ARMCM4-STM32F407-DISCOVERY-MEMS/./mcuconf.h	173;"	d
+STM32_ICU_TIM9_IRQ_PRIORITY	/home/volodymyr/work_STM/ChibiOS_2.6.6/demos/ARMCM4-STM32F407-DISCOVERY-MEMS/./mcuconf.h	174;"	d
+STM32_ICU_USE_TIM1	/home/volodymyr/work_STM/ChibiOS_2.6.6/demos/ARMCM4-STM32F407-DISCOVERY-MEMS/./mcuconf.h	161;"	d
+STM32_ICU_USE_TIM2	/home/volodymyr/work_STM/ChibiOS_2.6.6/demos/ARMCM4-STM32F407-DISCOVERY-MEMS/./mcuconf.h	162;"	d
+STM32_ICU_USE_TIM3	/home/volodymyr/work_STM/ChibiOS_2.6.6/demos/ARMCM4-STM32F407-DISCOVERY-MEMS/./mcuconf.h	163;"	d
+STM32_ICU_USE_TIM4	/home/volodymyr/work_STM/ChibiOS_2.6.6/demos/ARMCM4-STM32F407-DISCOVERY-MEMS/./mcuconf.h	164;"	d
+STM32_ICU_USE_TIM5	/home/volodymyr/work_STM/ChibiOS_2.6.6/demos/ARMCM4-STM32F407-DISCOVERY-MEMS/./mcuconf.h	165;"	d
+STM32_ICU_USE_TIM8	/home/volodymyr/work_STM/ChibiOS_2.6.6/demos/ARMCM4-STM32F407-DISCOVERY-MEMS/./mcuconf.h	166;"	d
+STM32_ICU_USE_TIM9	/home/volodymyr/work_STM/ChibiOS_2.6.6/demos/ARMCM4-STM32F407-DISCOVERY-MEMS/./mcuconf.h	167;"	d
+STM32_LSE_ENABLED	/home/volodymyr/work_STM/ChibiOS_2.6.6/demos/ARMCM4-STM32F407-DISCOVERY-MEMS/./mcuconf.h	40;"	d
+STM32_LSI_ENABLED	/home/volodymyr/work_STM/ChibiOS_2.6.6/demos/ARMCM4-STM32F407-DISCOVERY-MEMS/./mcuconf.h	38;"	d
+STM32_MAC_BUFFERS_SIZE	/home/volodymyr/work_STM/ChibiOS_2.6.6/demos/ARMCM4-STM32F407-DISCOVERY-MEMS/./mcuconf.h	181;"	d
+STM32_MAC_ETH1_CHANGE_PHY_STATE	/home/volodymyr/work_STM/ChibiOS_2.6.6/demos/ARMCM4-STM32F407-DISCOVERY-MEMS/./mcuconf.h	183;"	d
+STM32_MAC_ETH1_IRQ_PRIORITY	/home/volodymyr/work_STM/ChibiOS_2.6.6/demos/ARMCM4-STM32F407-DISCOVERY-MEMS/./mcuconf.h	184;"	d
+STM32_MAC_IP_CHECKSUM_OFFLOAD	/home/volodymyr/work_STM/ChibiOS_2.6.6/demos/ARMCM4-STM32F407-DISCOVERY-MEMS/./mcuconf.h	185;"	d
+STM32_MAC_PHY_TIMEOUT	/home/volodymyr/work_STM/ChibiOS_2.6.6/demos/ARMCM4-STM32F407-DISCOVERY-MEMS/./mcuconf.h	182;"	d
+STM32_MAC_RECEIVE_BUFFERS	/home/volodymyr/work_STM/ChibiOS_2.6.6/demos/ARMCM4-STM32F407-DISCOVERY-MEMS/./mcuconf.h	180;"	d
+STM32_MAC_TRANSMIT_BUFFERS	/home/volodymyr/work_STM/ChibiOS_2.6.6/demos/ARMCM4-STM32F407-DISCOVERY-MEMS/./mcuconf.h	179;"	d
+STM32_MCO1PRE	/home/volodymyr/work_STM/ChibiOS_2.6.6/demos/ARMCM4-STM32F407-DISCOVERY-MEMS/./mcuconf.h	54;"	d
+STM32_MCO1SEL	/home/volodymyr/work_STM/ChibiOS_2.6.6/demos/ARMCM4-STM32F407-DISCOVERY-MEMS/./mcuconf.h	53;"	d
+STM32_MCO2PRE	/home/volodymyr/work_STM/ChibiOS_2.6.6/demos/ARMCM4-STM32F407-DISCOVERY-MEMS/./mcuconf.h	56;"	d
+STM32_MCO2SEL	/home/volodymyr/work_STM/ChibiOS_2.6.6/demos/ARMCM4-STM32F407-DISCOVERY-MEMS/./mcuconf.h	55;"	d
+STM32_NO_INIT	/home/volodymyr/work_STM/ChibiOS_2.6.6/demos/ARMCM4-STM32F407-DISCOVERY-MEMS/./mcuconf.h	36;"	d
+STM32_PLLI2SN_VALUE	/home/volodymyr/work_STM/ChibiOS_2.6.6/demos/ARMCM4-STM32F407-DISCOVERY-MEMS/./mcuconf.h	58;"	d
+STM32_PLLI2SR_VALUE	/home/volodymyr/work_STM/ChibiOS_2.6.6/demos/ARMCM4-STM32F407-DISCOVERY-MEMS/./mcuconf.h	59;"	d
+STM32_PLLM_VALUE	/home/volodymyr/work_STM/ChibiOS_2.6.6/demos/ARMCM4-STM32F407-DISCOVERY-MEMS/./mcuconf.h	44;"	d
+STM32_PLLN_VALUE	/home/volodymyr/work_STM/ChibiOS_2.6.6/demos/ARMCM4-STM32F407-DISCOVERY-MEMS/./mcuconf.h	45;"	d
+STM32_PLLP_VALUE	/home/volodymyr/work_STM/ChibiOS_2.6.6/demos/ARMCM4-STM32F407-DISCOVERY-MEMS/./mcuconf.h	46;"	d
+STM32_PLLQ_VALUE	/home/volodymyr/work_STM/ChibiOS_2.6.6/demos/ARMCM4-STM32F407-DISCOVERY-MEMS/./mcuconf.h	47;"	d
+STM32_PLLSRC	/home/volodymyr/work_STM/ChibiOS_2.6.6/demos/ARMCM4-STM32F407-DISCOVERY-MEMS/./mcuconf.h	43;"	d
+STM32_PLS	/home/volodymyr/work_STM/ChibiOS_2.6.6/demos/ARMCM4-STM32F407-DISCOVERY-MEMS/./mcuconf.h	61;"	d
+STM32_PPRE1	/home/volodymyr/work_STM/ChibiOS_2.6.6/demos/ARMCM4-STM32F407-DISCOVERY-MEMS/./mcuconf.h	49;"	d
+STM32_PPRE2	/home/volodymyr/work_STM/ChibiOS_2.6.6/demos/ARMCM4-STM32F407-DISCOVERY-MEMS/./mcuconf.h	50;"	d
+STM32_PVD_ENABLE	/home/volodymyr/work_STM/ChibiOS_2.6.6/demos/ARMCM4-STM32F407-DISCOVERY-MEMS/./mcuconf.h	60;"	d
+STM32_PWM_TIM1_IRQ_PRIORITY	/home/volodymyr/work_STM/ChibiOS_2.6.6/demos/ARMCM4-STM32F407-DISCOVERY-MEMS/./mcuconf.h	198;"	d
+STM32_PWM_TIM2_IRQ_PRIORITY	/home/volodymyr/work_STM/ChibiOS_2.6.6/demos/ARMCM4-STM32F407-DISCOVERY-MEMS/./mcuconf.h	199;"	d
+STM32_PWM_TIM3_IRQ_PRIORITY	/home/volodymyr/work_STM/ChibiOS_2.6.6/demos/ARMCM4-STM32F407-DISCOVERY-MEMS/./mcuconf.h	200;"	d
+STM32_PWM_TIM4_IRQ_PRIORITY	/home/volodymyr/work_STM/ChibiOS_2.6.6/demos/ARMCM4-STM32F407-DISCOVERY-MEMS/./mcuconf.h	201;"	d
+STM32_PWM_TIM5_IRQ_PRIORITY	/home/volodymyr/work_STM/ChibiOS_2.6.6/demos/ARMCM4-STM32F407-DISCOVERY-MEMS/./mcuconf.h	202;"	d
+STM32_PWM_TIM8_IRQ_PRIORITY	/home/volodymyr/work_STM/ChibiOS_2.6.6/demos/ARMCM4-STM32F407-DISCOVERY-MEMS/./mcuconf.h	203;"	d
+STM32_PWM_TIM9_IRQ_PRIORITY	/home/volodymyr/work_STM/ChibiOS_2.6.6/demos/ARMCM4-STM32F407-DISCOVERY-MEMS/./mcuconf.h	204;"	d
+STM32_PWM_USE_ADVANCED	/home/volodymyr/work_STM/ChibiOS_2.6.6/demos/ARMCM4-STM32F407-DISCOVERY-MEMS/./mcuconf.h	190;"	d
+STM32_PWM_USE_TIM1	/home/volodymyr/work_STM/ChibiOS_2.6.6/demos/ARMCM4-STM32F407-DISCOVERY-MEMS/./mcuconf.h	191;"	d
+STM32_PWM_USE_TIM2	/home/volodymyr/work_STM/ChibiOS_2.6.6/demos/ARMCM4-STM32F407-DISCOVERY-MEMS/./mcuconf.h	192;"	d
+STM32_PWM_USE_TIM3	/home/volodymyr/work_STM/ChibiOS_2.6.6/demos/ARMCM4-STM32F407-DISCOVERY-MEMS/./mcuconf.h	193;"	d
+STM32_PWM_USE_TIM4	/home/volodymyr/work_STM/ChibiOS_2.6.6/demos/ARMCM4-STM32F407-DISCOVERY-MEMS/./mcuconf.h	194;"	d
+STM32_PWM_USE_TIM5	/home/volodymyr/work_STM/ChibiOS_2.6.6/demos/ARMCM4-STM32F407-DISCOVERY-MEMS/./mcuconf.h	195;"	d
+STM32_PWM_USE_TIM8	/home/volodymyr/work_STM/ChibiOS_2.6.6/demos/ARMCM4-STM32F407-DISCOVERY-MEMS/./mcuconf.h	196;"	d
+STM32_PWM_USE_TIM9	/home/volodymyr/work_STM/ChibiOS_2.6.6/demos/ARMCM4-STM32F407-DISCOVERY-MEMS/./mcuconf.h	197;"	d
+STM32_RTCPRE_VALUE	/home/volodymyr/work_STM/ChibiOS_2.6.6/demos/ARMCM4-STM32F407-DISCOVERY-MEMS/./mcuconf.h	52;"	d
+STM32_RTCSEL	/home/volodymyr/work_STM/ChibiOS_2.6.6/demos/ARMCM4-STM32F407-DISCOVERY-MEMS/./mcuconf.h	51;"	d
+STM32_SERIAL_UART4_PRIORITY	/home/volodymyr/work_STM/ChibiOS_2.6.6/demos/ARMCM4-STM32F407-DISCOVERY-MEMS/./mcuconf.h	218;"	d
+STM32_SERIAL_UART5_PRIORITY	/home/volodymyr/work_STM/ChibiOS_2.6.6/demos/ARMCM4-STM32F407-DISCOVERY-MEMS/./mcuconf.h	219;"	d
+STM32_SERIAL_USART1_PRIORITY	/home/volodymyr/work_STM/ChibiOS_2.6.6/demos/ARMCM4-STM32F407-DISCOVERY-MEMS/./mcuconf.h	215;"	d
+STM32_SERIAL_USART2_PRIORITY	/home/volodymyr/work_STM/ChibiOS_2.6.6/demos/ARMCM4-STM32F407-DISCOVERY-MEMS/./mcuconf.h	216;"	d
+STM32_SERIAL_USART3_PRIORITY	/home/volodymyr/work_STM/ChibiOS_2.6.6/demos/ARMCM4-STM32F407-DISCOVERY-MEMS/./mcuconf.h	217;"	d
+STM32_SERIAL_USART6_PRIORITY	/home/volodymyr/work_STM/ChibiOS_2.6.6/demos/ARMCM4-STM32F407-DISCOVERY-MEMS/./mcuconf.h	220;"	d
+STM32_SERIAL_USE_UART4	/home/volodymyr/work_STM/ChibiOS_2.6.6/demos/ARMCM4-STM32F407-DISCOVERY-MEMS/./mcuconf.h	212;"	d
+STM32_SERIAL_USE_UART5	/home/volodymyr/work_STM/ChibiOS_2.6.6/demos/ARMCM4-STM32F407-DISCOVERY-MEMS/./mcuconf.h	213;"	d
+STM32_SERIAL_USE_USART1	/home/volodymyr/work_STM/ChibiOS_2.6.6/demos/ARMCM4-STM32F407-DISCOVERY-MEMS/./mcuconf.h	209;"	d
+STM32_SERIAL_USE_USART2	/home/volodymyr/work_STM/ChibiOS_2.6.6/demos/ARMCM4-STM32F407-DISCOVERY-MEMS/./mcuconf.h	210;"	d
+STM32_SERIAL_USE_USART3	/home/volodymyr/work_STM/ChibiOS_2.6.6/demos/ARMCM4-STM32F407-DISCOVERY-MEMS/./mcuconf.h	211;"	d
+STM32_SERIAL_USE_USART6	/home/volodymyr/work_STM/ChibiOS_2.6.6/demos/ARMCM4-STM32F407-DISCOVERY-MEMS/./mcuconf.h	214;"	d
+STM32_SPI_DMA_ERROR_HOOK	/home/volodymyr/work_STM/ChibiOS_2.6.6/demos/ARMCM4-STM32F407-DISCOVERY-MEMS/./mcuconf.h	240;"	d
+STM32_SPI_SPI1_DMA_PRIORITY	/home/volodymyr/work_STM/ChibiOS_2.6.6/demos/ARMCM4-STM32F407-DISCOVERY-MEMS/./mcuconf.h	234;"	d
+STM32_SPI_SPI1_IRQ_PRIORITY	/home/volodymyr/work_STM/ChibiOS_2.6.6/demos/ARMCM4-STM32F407-DISCOVERY-MEMS/./mcuconf.h	237;"	d
+STM32_SPI_SPI1_RX_DMA_STREAM	/home/volodymyr/work_STM/ChibiOS_2.6.6/demos/ARMCM4-STM32F407-DISCOVERY-MEMS/./mcuconf.h	228;"	d
+STM32_SPI_SPI1_TX_DMA_STREAM	/home/volodymyr/work_STM/ChibiOS_2.6.6/demos/ARMCM4-STM32F407-DISCOVERY-MEMS/./mcuconf.h	229;"	d
+STM32_SPI_SPI2_DMA_PRIORITY	/home/volodymyr/work_STM/ChibiOS_2.6.6/demos/ARMCM4-STM32F407-DISCOVERY-MEMS/./mcuconf.h	235;"	d
+STM32_SPI_SPI2_IRQ_PRIORITY	/home/volodymyr/work_STM/ChibiOS_2.6.6/demos/ARMCM4-STM32F407-DISCOVERY-MEMS/./mcuconf.h	238;"	d
+STM32_SPI_SPI2_RX_DMA_STREAM	/home/volodymyr/work_STM/ChibiOS_2.6.6/demos/ARMCM4-STM32F407-DISCOVERY-MEMS/./mcuconf.h	230;"	d
+STM32_SPI_SPI2_TX_DMA_STREAM	/home/volodymyr/work_STM/ChibiOS_2.6.6/demos/ARMCM4-STM32F407-DISCOVERY-MEMS/./mcuconf.h	231;"	d
+STM32_SPI_SPI3_DMA_PRIORITY	/home/volodymyr/work_STM/ChibiOS_2.6.6/demos/ARMCM4-STM32F407-DISCOVERY-MEMS/./mcuconf.h	236;"	d
+STM32_SPI_SPI3_IRQ_PRIORITY	/home/volodymyr/work_STM/ChibiOS_2.6.6/demos/ARMCM4-STM32F407-DISCOVERY-MEMS/./mcuconf.h	239;"	d
+STM32_SPI_SPI3_RX_DMA_STREAM	/home/volodymyr/work_STM/ChibiOS_2.6.6/demos/ARMCM4-STM32F407-DISCOVERY-MEMS/./mcuconf.h	232;"	d
+STM32_SPI_SPI3_TX_DMA_STREAM	/home/volodymyr/work_STM/ChibiOS_2.6.6/demos/ARMCM4-STM32F407-DISCOVERY-MEMS/./mcuconf.h	233;"	d
+STM32_SPI_USE_SPI1	/home/volodymyr/work_STM/ChibiOS_2.6.6/demos/ARMCM4-STM32F407-DISCOVERY-MEMS/./mcuconf.h	225;"	d
+STM32_SPI_USE_SPI2	/home/volodymyr/work_STM/ChibiOS_2.6.6/demos/ARMCM4-STM32F407-DISCOVERY-MEMS/./mcuconf.h	226;"	d
+STM32_SPI_USE_SPI3	/home/volodymyr/work_STM/ChibiOS_2.6.6/demos/ARMCM4-STM32F407-DISCOVERY-MEMS/./mcuconf.h	227;"	d
+STM32_SW	/home/volodymyr/work_STM/ChibiOS_2.6.6/demos/ARMCM4-STM32F407-DISCOVERY-MEMS/./mcuconf.h	42;"	d
+STM32_UART_DMA_ERROR_HOOK	/home/volodymyr/work_STM/ChibiOS_2.6.6/demos/ARMCM4-STM32F407-DISCOVERY-MEMS/./mcuconf.h	275;"	d
+STM32_UART_UART4_DMA_PRIORITY	/home/volodymyr/work_STM/ChibiOS_2.6.6/demos/ARMCM4-STM32F407-DISCOVERY-MEMS/./mcuconf.h	272;"	d
+STM32_UART_UART4_IRQ_PRIORITY	/home/volodymyr/work_STM/ChibiOS_2.6.6/demos/ARMCM4-STM32F407-DISCOVERY-MEMS/./mcuconf.h	266;"	d
+STM32_UART_UART4_RX_DMA_STREAM	/home/volodymyr/work_STM/ChibiOS_2.6.6/demos/ARMCM4-STM32F407-DISCOVERY-MEMS/./mcuconf.h	257;"	d
+STM32_UART_UART4_TX_DMA_STREAM	/home/volodymyr/work_STM/ChibiOS_2.6.6/demos/ARMCM4-STM32F407-DISCOVERY-MEMS/./mcuconf.h	258;"	d
+STM32_UART_UART5_DMA_PRIORITY	/home/volodymyr/work_STM/ChibiOS_2.6.6/demos/ARMCM4-STM32F407-DISCOVERY-MEMS/./mcuconf.h	273;"	d
+STM32_UART_UART5_IRQ_PRIORITY	/home/volodymyr/work_STM/ChibiOS_2.6.6/demos/ARMCM4-STM32F407-DISCOVERY-MEMS/./mcuconf.h	267;"	d
+STM32_UART_UART5_RX_DMA_STREAM	/home/volodymyr/work_STM/ChibiOS_2.6.6/demos/ARMCM4-STM32F407-DISCOVERY-MEMS/./mcuconf.h	259;"	d
+STM32_UART_UART5_TX_DMA_STREAM	/home/volodymyr/work_STM/ChibiOS_2.6.6/demos/ARMCM4-STM32F407-DISCOVERY-MEMS/./mcuconf.h	260;"	d
+STM32_UART_USART1_DMA_PRIORITY	/home/volodymyr/work_STM/ChibiOS_2.6.6/demos/ARMCM4-STM32F407-DISCOVERY-MEMS/./mcuconf.h	269;"	d
+STM32_UART_USART1_IRQ_PRIORITY	/home/volodymyr/work_STM/ChibiOS_2.6.6/demos/ARMCM4-STM32F407-DISCOVERY-MEMS/./mcuconf.h	263;"	d
+STM32_UART_USART1_RX_DMA_STREAM	/home/volodymyr/work_STM/ChibiOS_2.6.6/demos/ARMCM4-STM32F407-DISCOVERY-MEMS/./mcuconf.h	251;"	d
+STM32_UART_USART1_TX_DMA_STREAM	/home/volodymyr/work_STM/ChibiOS_2.6.6/demos/ARMCM4-STM32F407-DISCOVERY-MEMS/./mcuconf.h	252;"	d
+STM32_UART_USART2_DMA_PRIORITY	/home/volodymyr/work_STM/ChibiOS_2.6.6/demos/ARMCM4-STM32F407-DISCOVERY-MEMS/./mcuconf.h	270;"	d
+STM32_UART_USART2_IRQ_PRIORITY	/home/volodymyr/work_STM/ChibiOS_2.6.6/demos/ARMCM4-STM32F407-DISCOVERY-MEMS/./mcuconf.h	264;"	d
+STM32_UART_USART2_RX_DMA_STREAM	/home/volodymyr/work_STM/ChibiOS_2.6.6/demos/ARMCM4-STM32F407-DISCOVERY-MEMS/./mcuconf.h	253;"	d
+STM32_UART_USART2_TX_DMA_STREAM	/home/volodymyr/work_STM/ChibiOS_2.6.6/demos/ARMCM4-STM32F407-DISCOVERY-MEMS/./mcuconf.h	254;"	d
+STM32_UART_USART3_DMA_PRIORITY	/home/volodymyr/work_STM/ChibiOS_2.6.6/demos/ARMCM4-STM32F407-DISCOVERY-MEMS/./mcuconf.h	271;"	d
+STM32_UART_USART3_IRQ_PRIORITY	/home/volodymyr/work_STM/ChibiOS_2.6.6/demos/ARMCM4-STM32F407-DISCOVERY-MEMS/./mcuconf.h	265;"	d
+STM32_UART_USART3_RX_DMA_STREAM	/home/volodymyr/work_STM/ChibiOS_2.6.6/demos/ARMCM4-STM32F407-DISCOVERY-MEMS/./mcuconf.h	255;"	d
+STM32_UART_USART3_TX_DMA_STREAM	/home/volodymyr/work_STM/ChibiOS_2.6.6/demos/ARMCM4-STM32F407-DISCOVERY-MEMS/./mcuconf.h	256;"	d
+STM32_UART_USART6_DMA_PRIORITY	/home/volodymyr/work_STM/ChibiOS_2.6.6/demos/ARMCM4-STM32F407-DISCOVERY-MEMS/./mcuconf.h	274;"	d
+STM32_UART_USART6_IRQ_PRIORITY	/home/volodymyr/work_STM/ChibiOS_2.6.6/demos/ARMCM4-STM32F407-DISCOVERY-MEMS/./mcuconf.h	268;"	d
+STM32_UART_USART6_RX_DMA_STREAM	/home/volodymyr/work_STM/ChibiOS_2.6.6/demos/ARMCM4-STM32F407-DISCOVERY-MEMS/./mcuconf.h	261;"	d
+STM32_UART_USART6_TX_DMA_STREAM	/home/volodymyr/work_STM/ChibiOS_2.6.6/demos/ARMCM4-STM32F407-DISCOVERY-MEMS/./mcuconf.h	262;"	d
+STM32_UART_USE_UART4	/home/volodymyr/work_STM/ChibiOS_2.6.6/demos/ARMCM4-STM32F407-DISCOVERY-MEMS/./mcuconf.h	248;"	d
+STM32_UART_USE_UART5	/home/volodymyr/work_STM/ChibiOS_2.6.6/demos/ARMCM4-STM32F407-DISCOVERY-MEMS/./mcuconf.h	249;"	d
+STM32_UART_USE_USART1	/home/volodymyr/work_STM/ChibiOS_2.6.6/demos/ARMCM4-STM32F407-DISCOVERY-MEMS/./mcuconf.h	245;"	d
+STM32_UART_USE_USART2	/home/volodymyr/work_STM/ChibiOS_2.6.6/demos/ARMCM4-STM32F407-DISCOVERY-MEMS/./mcuconf.h	246;"	d
+STM32_UART_USE_USART3	/home/volodymyr/work_STM/ChibiOS_2.6.6/demos/ARMCM4-STM32F407-DISCOVERY-MEMS/./mcuconf.h	247;"	d
+STM32_UART_USE_USART6	/home/volodymyr/work_STM/ChibiOS_2.6.6/demos/ARMCM4-STM32F407-DISCOVERY-MEMS/./mcuconf.h	250;"	d
+STM32_USB_OTG1_IRQ_PRIORITY	/home/volodymyr/work_STM/ChibiOS_2.6.6/demos/ARMCM4-STM32F407-DISCOVERY-MEMS/./mcuconf.h	282;"	d
+STM32_USB_OTG1_RX_FIFO_SIZE	/home/volodymyr/work_STM/ChibiOS_2.6.6/demos/ARMCM4-STM32F407-DISCOVERY-MEMS/./mcuconf.h	284;"	d
+STM32_USB_OTG2_IRQ_PRIORITY	/home/volodymyr/work_STM/ChibiOS_2.6.6/demos/ARMCM4-STM32F407-DISCOVERY-MEMS/./mcuconf.h	283;"	d
+STM32_USB_OTG2_RX_FIFO_SIZE	/home/volodymyr/work_STM/ChibiOS_2.6.6/demos/ARMCM4-STM32F407-DISCOVERY-MEMS/./mcuconf.h	285;"	d
+STM32_USB_OTGFIFO_FILL_BASEPRI	/home/volodymyr/work_STM/ChibiOS_2.6.6/demos/ARMCM4-STM32F407-DISCOVERY-MEMS/./mcuconf.h	288;"	d
+STM32_USB_OTG_THREAD_PRIO	/home/volodymyr/work_STM/ChibiOS_2.6.6/demos/ARMCM4-STM32F407-DISCOVERY-MEMS/./mcuconf.h	286;"	d
+STM32_USB_OTG_THREAD_STACK_SIZE	/home/volodymyr/work_STM/ChibiOS_2.6.6/demos/ARMCM4-STM32F407-DISCOVERY-MEMS/./mcuconf.h	287;"	d
+STM32_USB_USE_OTG1	/home/volodymyr/work_STM/ChibiOS_2.6.6/demos/ARMCM4-STM32F407-DISCOVERY-MEMS/./mcuconf.h	280;"	d
+STM32_USB_USE_OTG2	/home/volodymyr/work_STM/ChibiOS_2.6.6/demos/ARMCM4-STM32F407-DISCOVERY-MEMS/./mcuconf.h	281;"	d
+SYSTEM_HALT_HOOK	/home/volodymyr/work_STM/ChibiOS_2.6.6/demos/ARMCM4-STM32F407-DISCOVERY-MEMS/./chconf.h	518;"	d
+SYSTEM_TICK_EVENT_HOOK	/home/volodymyr/work_STM/ChibiOS_2.6.6/demos/ARMCM4-STM32F407-DISCOVERY-MEMS/./chconf.h	507;"	d
+TEST_WA_SIZE	/home/volodymyr/work_STM/ChibiOS_2.6.6/demos/ARMCM4-STM32F407-DISCOVERY-MEMS/./main.c	35;"	d	file:
+THREAD_CONTEXT_SWITCH_HOOK	/home/volodymyr/work_STM/ChibiOS_2.6.6/demos/ARMCM4-STM32F407-DISCOVERY-MEMS/./chconf.h	486;"	d
+THREAD_EXT_EXIT_HOOK	/home/volodymyr/work_STM/ChibiOS_2.6.6/demos/ARMCM4-STM32F407-DISCOVERY-MEMS/./chconf.h	476;"	d
+THREAD_EXT_FIELDS	/home/volodymyr/work_STM/ChibiOS_2.6.6/demos/ARMCM4-STM32F407-DISCOVERY-MEMS/./chconf.h	450;"	d
+THREAD_EXT_INIT_HOOK	/home/volodymyr/work_STM/ChibiOS_2.6.6/demos/ARMCM4-STM32F407-DISCOVERY-MEMS/./chconf.h	462;"	d
+Thread1	/home/volodymyr/work_STM/ChibiOS_2.6.6/demos/ARMCM4-STM32F407-DISCOVERY-MEMS/./main.c	/^static msg_t Thread1(void *arg) {$/;"	f	file:
+USBD1_DATA_AVAILABLE_EP	/home/volodymyr/work_STM/ChibiOS_2.6.6/demos/ARMCM4-STM32F407-DISCOVERY-MEMS/./usbcfg.c	24;"	d	file:
+USBD1_DATA_REQUEST_EP	/home/volodymyr/work_STM/ChibiOS_2.6.6/demos/ARMCM4-STM32F407-DISCOVERY-MEMS/./usbcfg.c	23;"	d	file:
+USBD1_INTERRUPT_REQUEST_EP	/home/volodymyr/work_STM/ChibiOS_2.6.6/demos/ARMCM4-STM32F407-DISCOVERY-MEMS/./usbcfg.c	25;"	d	file:
+_CHCONF_H_	/home/volodymyr/work_STM/ChibiOS_2.6.6/demos/ARMCM4-STM32F407-DISCOVERY-MEMS/./chconf.h	29;"	d
+_HALCONF_H_	/home/volodymyr/work_STM/ChibiOS_2.6.6/demos/ARMCM4-STM32F407-DISCOVERY-MEMS/./halconf.h	29;"	d
+_USBCFG_H_	/home/volodymyr/work_STM/ChibiOS_2.6.6/demos/ARMCM4-STM32F407-DISCOVERY-MEMS/./usbcfg.h	18;"	d
+cmd_mem	/home/volodymyr/work_STM/ChibiOS_2.6.6/demos/ARMCM4-STM32F407-DISCOVERY-MEMS/./main.c	/^static void cmd_mem(BaseSequentialStream *chp, int argc, char *argv[]) {$/;"	f	file:
+cmd_test	/home/volodymyr/work_STM/ChibiOS_2.6.6/demos/ARMCM4-STM32F407-DISCOVERY-MEMS/./main.c	/^static void cmd_test(BaseSequentialStream *chp, int argc, char *argv[]) {$/;"	f	file:
+cmd_threads	/home/volodymyr/work_STM/ChibiOS_2.6.6/demos/ARMCM4-STM32F407-DISCOVERY-MEMS/./main.c	/^static void cmd_threads(BaseSequentialStream *chp, int argc, char *argv[]) {$/;"	f	file:
+commands	/home/volodymyr/work_STM/ChibiOS_2.6.6/demos/ARMCM4-STM32F407-DISCOVERY-MEMS/./main.c	/^static const ShellCommand commands[] = {$/;"	v	file:
+ep1config	/home/volodymyr/work_STM/ChibiOS_2.6.6/demos/ARMCM4-STM32F407-DISCOVERY-MEMS/./usbcfg.c	/^static const USBEndpointConfig ep1config = {$/;"	v	file:
+ep1instate	/home/volodymyr/work_STM/ChibiOS_2.6.6/demos/ARMCM4-STM32F407-DISCOVERY-MEMS/./usbcfg.c	/^static USBInEndpointState ep1instate;$/;"	v	file:
+ep1outstate	/home/volodymyr/work_STM/ChibiOS_2.6.6/demos/ARMCM4-STM32F407-DISCOVERY-MEMS/./usbcfg.c	/^static USBOutEndpointState ep1outstate;$/;"	v	file:
+ep2config	/home/volodymyr/work_STM/ChibiOS_2.6.6/demos/ARMCM4-STM32F407-DISCOVERY-MEMS/./usbcfg.c	/^static const USBEndpointConfig ep2config = {$/;"	v	file:
+ep2instate	/home/volodymyr/work_STM/ChibiOS_2.6.6/demos/ARMCM4-STM32F407-DISCOVERY-MEMS/./usbcfg.c	/^static USBInEndpointState ep2instate;$/;"	v	file:
+get_descriptor	/home/volodymyr/work_STM/ChibiOS_2.6.6/demos/ARMCM4-STM32F407-DISCOVERY-MEMS/./usbcfg.c	/^static const USBDescriptor *get_descriptor(USBDriver *usbp,$/;"	f	file:
+main	/home/volodymyr/work_STM/ChibiOS_2.6.6/demos/ARMCM4-STM32F407-DISCOVERY-MEMS/./main.c	/^int main(void) {$/;"	f
+pwmcfg	/home/volodymyr/work_STM/ChibiOS_2.6.6/demos/ARMCM4-STM32F407-DISCOVERY-MEMS/./main.c	/^static const PWMConfig pwmcfg = {$/;"	v	file:
+serusbcfg	/home/volodymyr/work_STM/ChibiOS_2.6.6/demos/ARMCM4-STM32F407-DISCOVERY-MEMS/./usbcfg.c	/^const SerialUSBConfig serusbcfg = {$/;"	v
+shell_cfg1	/home/volodymyr/work_STM/ChibiOS_2.6.6/demos/ARMCM4-STM32F407-DISCOVERY-MEMS/./main.c	/^static const ShellConfig shell_cfg1 = {$/;"	v	file:
+spi1cfg	/home/volodymyr/work_STM/ChibiOS_2.6.6/demos/ARMCM4-STM32F407-DISCOVERY-MEMS/./main.c	/^static const SPIConfig spi1cfg = {$/;"	v	file:
+spi2cfg	/home/volodymyr/work_STM/ChibiOS_2.6.6/demos/ARMCM4-STM32F407-DISCOVERY-MEMS/./main.c	/^static const SPIConfig spi2cfg = {$/;"	v	file:
+usb_event	/home/volodymyr/work_STM/ChibiOS_2.6.6/demos/ARMCM4-STM32F407-DISCOVERY-MEMS/./usbcfg.c	/^static void usb_event(USBDriver *usbp, usbevent_t event) {$/;"	f	file:
+usbcfg	/home/volodymyr/work_STM/ChibiOS_2.6.6/demos/ARMCM4-STM32F407-DISCOVERY-MEMS/./usbcfg.c	/^const USBConfig usbcfg = {$/;"	v
+vcom_configuration_descriptor	/home/volodymyr/work_STM/ChibiOS_2.6.6/demos/ARMCM4-STM32F407-DISCOVERY-MEMS/./usbcfg.c	/^static const USBDescriptor vcom_configuration_descriptor = {$/;"	v	file:
+vcom_configuration_descriptor_data	/home/volodymyr/work_STM/ChibiOS_2.6.6/demos/ARMCM4-STM32F407-DISCOVERY-MEMS/./usbcfg.c	/^static const uint8_t vcom_configuration_descriptor_data[67] = {$/;"	v	file:
+vcom_device_descriptor	/home/volodymyr/work_STM/ChibiOS_2.6.6/demos/ARMCM4-STM32F407-DISCOVERY-MEMS/./usbcfg.c	/^static const USBDescriptor vcom_device_descriptor = {$/;"	v	file:
+vcom_device_descriptor_data	/home/volodymyr/work_STM/ChibiOS_2.6.6/demos/ARMCM4-STM32F407-DISCOVERY-MEMS/./usbcfg.c	/^static const uint8_t vcom_device_descriptor_data[18] = {$/;"	v	file:
+vcom_string0	/home/volodymyr/work_STM/ChibiOS_2.6.6/demos/ARMCM4-STM32F407-DISCOVERY-MEMS/./usbcfg.c	/^static const uint8_t vcom_string0[] = {$/;"	v	file:
+vcom_string1	/home/volodymyr/work_STM/ChibiOS_2.6.6/demos/ARMCM4-STM32F407-DISCOVERY-MEMS/./usbcfg.c	/^static const uint8_t vcom_string1[] = {$/;"	v	file:
+vcom_string2	/home/volodymyr/work_STM/ChibiOS_2.6.6/demos/ARMCM4-STM32F407-DISCOVERY-MEMS/./usbcfg.c	/^static const uint8_t vcom_string2[] = {$/;"	v	file:
+vcom_string3	/home/volodymyr/work_STM/ChibiOS_2.6.6/demos/ARMCM4-STM32F407-DISCOVERY-MEMS/./usbcfg.c	/^static const uint8_t vcom_string3[] = {$/;"	v	file:
+vcom_strings	/home/volodymyr/work_STM/ChibiOS_2.6.6/demos/ARMCM4-STM32F407-DISCOVERY-MEMS/./usbcfg.c	/^static const USBDescriptor vcom_strings[] = {$/;"	v	file:
