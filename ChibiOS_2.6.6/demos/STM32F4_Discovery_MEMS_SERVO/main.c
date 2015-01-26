@@ -26,7 +26,8 @@
 
 int32_t x, y; //Accelerometer coordinates
 
-#define SERVO 8
+#define SERVO1 0
+#define SERVO2 1
 
 /* Virtual serial port over USB.*/
 SerialUSBDriver SDU1;
@@ -52,9 +53,9 @@ static msg_t Thread2(void *arg) {
   while (TRUE) {
 
     if (x != xbuf || y != ybuf) {
-    	xbuf = x;
-    	ybuf = y;
-		chprintf(chp, "accel: x = %d; y = %d\r\n", x, y);
+        xbuf = x;
+        ybuf = y;
+        chprintf(chp, "accel: x = %d; y = %d\r\n", x, y);
     }
 
     /* Waiting until the next 250 milliseconds time interval.*/
@@ -180,7 +181,7 @@ static PWMConfig pwmcfg_servo = {
     {PWM_OUTPUT_DISABLED, NULL},
     {PWM_OUTPUT_DISABLED, NULL},
     {PWM_OUTPUT_ACTIVE_HIGH, NULL},
-    {PWM_OUTPUT_DISABLED, NULL},
+    {PWM_OUTPUT_ACTIVE_HIGH, NULL},
   },
   0
 };
@@ -219,6 +220,8 @@ static WORKING_AREA(waThread1, 128);
 static msg_t Thread1(void *arg) {
   static int8_t xbuf[4], ybuf[4];   /* Last accelerometer data.*/
   systime_t time;                   /* Next deadline.*/
+  enum {UP, DOWN};
+  static int dir = UP, step = 50, width = 700; /* starts at .7ms, ends at 2.0ms */
 
   (void)arg;
   chRegSetThreadName("reader");
@@ -273,10 +276,11 @@ static msg_t Thread1(void *arg) {
       pwmEnableChannel(&PWMD4, 1, (pwmcnt_t)0);
     }
 
-    pwmEnableChannel(&PWMD3, 2, (pwmcnt_t)(800+(100-x/100)));
+    pwmEnableChannel(&PWMD3, 2, (pwmcnt_t)(1100+(100-x*20)));
+    pwmEnableChannel(&PWMD3, 3, (pwmcnt_t)(1100+(100-y*20)));
 
     /* Waiting until the next 250 milliseconds time interval.*/
-    chThdSleepUntil(time += MS2ST(200));
+    chThdSleepUntil(time += MS2ST(50));
   }
 }
 
@@ -363,7 +367,8 @@ int main(void) {
   palSetPadMode(GPIOD, GPIOD_LED6, PAL_MODE_ALTERNATE(2));      /* Blue.    */
 
   pwmStart(&PWMD3, &pwmcfg_servo);
-  palSetPadMode(GPIOB, SERVO, PAL_MODE_ALTERNATE(2));
+  palSetPadMode(GPIOB, SERVO1, PAL_MODE_ALTERNATE(2));          /* SERVO1   */
+  palSetPadMode(GPIOB, SERVO2, PAL_MODE_ALTERNATE(2));          /* SERVO2   */
   /*
    * Creates the example thread.
    */
