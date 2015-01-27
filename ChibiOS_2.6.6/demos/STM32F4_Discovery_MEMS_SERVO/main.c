@@ -24,7 +24,7 @@
 
 #include "usbcfg.h"
 
-int32_t x, y; //Accelerometer coordinates
+int32_t x, y, z; //Accelerometer coordinates
 
 #define SERVO1 0
 #define SERVO2 1
@@ -55,7 +55,7 @@ static msg_t Thread2(void *arg) {
     if (x != xbuf || y != ybuf) {
         xbuf = x;
         ybuf = y;
-        chprintf(chp, "accel: x = %d; y = %d\r\n", x, y);
+        chprintf(chp, "accel(start): x = %d; y = %d; z = %d\r\n", x, y, z);
     }
 
     /* Waiting until the next 250 milliseconds time interval.*/
@@ -122,7 +122,7 @@ static void cmd_accel(BaseSequentialStream *chp, int argc, char *argv[]) {
     chprintf(chp, "Usage: accel\r\n");
     return;
   }
-  chprintf(chp, "accel(start): x = %d; y = %d\r\n", x, y);
+  chprintf(chp, "accel(start): x = %d; y = %d; z = %d\r\n", x, y, z);
 
   tp = chThdCreateFromHeap(NULL, TEST_WA_SIZE, chThdGetPriority(),
                            Thread2, chp);
@@ -134,7 +134,25 @@ static void cmd_accel(BaseSequentialStream *chp, int argc, char *argv[]) {
 
 }
 
+static void cmd_motors(BaseSequentialStream *chp, int argc, char *argv[]) {
+  Thread *tp;
 
+  (void)argv;
+  if (argc > 0) {
+    chprintf(chp, "Usage: accel\r\n");
+    return;
+  }
+  chprintf(chp, "accel(start): x = %d; y = %d; z = %d\r\n", x, y, z);
+
+  tp = chThdCreateFromHeap(NULL, TEST_WA_SIZE, chThdGetPriority(),
+                           Thread2, chp);
+  if (tp == NULL) {
+    chprintf(chp, "out of memory\r\n");
+    return;
+  }
+  chThdWait(tp);
+
+}
 
 static const ShellCommand commands[] = {
   {"mem", cmd_mem},
@@ -245,6 +263,7 @@ static msg_t Thread1(void *arg) {
     /* Reading MEMS accelerometer X and Y registers.*/
     xbuf[0] = (int8_t)lis302dlReadRegister(&SPID1, LIS302DL_OUTX);
     ybuf[0] = (int8_t)lis302dlReadRegister(&SPID1, LIS302DL_OUTY);
+    z = (int8_t)lis302dlReadRegister(&SPID1, LIS302DL_OUTZ);
 
     /* Transmitting accelerometer the data over SPI2.*/
     spiSelect(&SPID2);
@@ -276,11 +295,15 @@ static msg_t Thread1(void *arg) {
       pwmEnableChannel(&PWMD4, 1, (pwmcnt_t)0);
     }
 
-    pwmEnableChannel(&PWMD3, 2, (pwmcnt_t)(1100+(100-x*20)));
-    pwmEnableChannel(&PWMD3, 3, (pwmcnt_t)(1100+(100-y*20)));
+    if (x < -2 || x > 2) {
+      pwmEnableChannel(&PWMD3, 2, (pwmcnt_t)(1300+(200-x*12)));
+    }
+    if (y < -2 || y > 2) {
+      pwmEnableChannel(&PWMD3, 3, (pwmcnt_t)(1300+(200-y*12)));
+    }
 
     /* Waiting until the next 250 milliseconds time interval.*/
-    chThdSleepUntil(time += MS2ST(50));
+    chThdSleepUntil(time += MS2ST(5));
   }
 }
 
